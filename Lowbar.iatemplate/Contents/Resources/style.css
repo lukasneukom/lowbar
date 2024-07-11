@@ -1,12 +1,19 @@
+:root {
+  font-family: Barlow;
+  font-size: 10pt;
+  line-height: 14pt;
+}
+
 body {
-	font-family: Barlow;
-	font-size: 10pt;
+  margin: 0 55pt;
 }
 
 h1 {
-	font-size: 20pt;
+  font-size: 20pt;
+  line-height: 28pt;
 }
 
 h2 {
-	font-size: 14pt;
+  font-size: 14pt;
+  line-height: 20pt;
 }
