@@ -1,0 +1,8 @@
+[package]
+name = "lowbar"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Lukas Neukom <https://lukasneukom.ch>"]
+license = "ISC"
+description = "The base package for elegant templates designed with the Barlow typeface."
+
